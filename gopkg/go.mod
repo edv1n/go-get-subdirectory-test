@@ -1,1 +1,1 @@
-module edv1n.github.io/go-get-subdirectory-test/gopkg
+module edv1n.github.io/go-get-subdirectory-test
